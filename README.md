@@ -1,6 +1,7 @@
 ## Who am I?
 
-A logically minded but creative individual, with strong experience working with an alongside people in many different aspects, with qualifications in both Maths and currently studying one of the best Software Dev bootcamps around, and personal hobbies in many creative endeavours. Good in any situation, and always working to improve my skills and experience.
+A logically minded but creative individual, with strong experience working with an alongside people in many different aspects, with qualifications in both Maths and currently studying one of the best Software Dev bootcamps around, and personal hobbies in many creative endeavours. G
+ood in any situation, and always working to improve my skills and experience.
 
 ## What have I done?
 
@@ -40,17 +41,11 @@ Bartender/Waiter
 
 ## What am I good at?
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+One of my strongest skills is that I am logically minded and can find solutions to complex problems easily. 
 
--STAR
--What was the situation/task? (ST)
+I've demonstrated this many times, including during my degree, during which I did a number of projects including a Chaos Theory project, as well as within my past roles, where I've found better and more effective solutions.
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+Some examples of this in past roles includes my role at Quilter, where I had to employ my logic skills with regards to the data sets and ensuring the correct information and details were inputted and stored, and in my previous job as a recruiter, where I had to come to logical conclusions with regards to the roles and who they would be suitable for.
 
 
 #### What else am I good at?
@@ -59,18 +54,8 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence (STAR)
 
-#### Is there anything else I'm good at?
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Ok, but is there anything else I'm good at too?
-
-
+I also have further skills in both creativity and using both this and my logical skills also have strong problem solving skills. 
+My creative skills have helped me with numerous project during my studies and in many previous roles, including my Mars Society project (which has been published in a book) and wthin my last role, where I could come up with novel solutions to problems and therefore acheive better and more consitent outcomes within the roles.
 
 ## Where did I learn this?
 
