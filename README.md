@@ -1,3 +1,5 @@
+# Chris Thomas GitHub CV
+
 ## Who am I?
 
 A logically minded but creative individual, with strong experience working with an alongside people in many different aspects, with qualifications in both Maths and currently studying one of the best Software Dev bootcamps around, and personal hobbies in many creative endeavours. 
