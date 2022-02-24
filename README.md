@@ -1,14 +1,17 @@
 ## Who am I?
 
-A logically minded but creative individual, with strong experience working with an alongside people in many different aspects, with qualifications in both Maths and currently studying one of the best Software Dev bootcamps around, and personal hobbies in many creative endeavours. G
-ood in any situation, and always working to improve my skills and experience.
+A logically minded but creative individual, with strong experience working with an alongside people in many different aspects, with qualifications in both Maths and currently studying one of the best Software Dev bootcamps around, and personal hobbies in many creative endeavours. 
+Good in any situation, and always working to improve my skills and experience.
 
 ## What have I done?
 
-| Name                         | Description                                         | Tech/tools        |
-| ---------------------------- | -----------------                                   | ----------------- |
-| **Final project - TBD **     | TBD                                                 | TBD               |
-| Terminal Minigames.          | Set of small minigames to be played in the terminal | Ruby              |
+| Name                         | Description                                         | Tech/tools                                  |
+| ---------------------------- | -----------------                                   | -----------------                           |
+| Wormz                        | A project recreating the classic Worms game for Web | Javascript, Jest, Mocha, Chai, Matter.js, P5 
+| Acebook (Gem Junkies)        | A project recreating Facebook on Rails              | Ruby on Rails, Rspec 
+| Makers BNB                   | A project recreating AirBNB in Ruby                 | Ruby, Rspec                                 |
+| Terminal Chess               | A project recreating chess, playable in the Terminal| Ruby, Rspec                                 |
+| Terminal Minigames           | Set of small minigames to be played in the terminal | Ruby                                        |
 
 ## What have I done (but also been paid for)?
 
@@ -49,24 +52,15 @@ Some examples of this in past roles includes my role at Quilter, where I had to 
 
 
 #### What else am I good at?
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
 I also have further skills in both creativity and using both this and my logical skills also have strong problem solving skills. 
 My creative skills have helped me with numerous project during my studies and in many previous roles, including my Mars Society project (which has been published in a book) and wthin my last role, where I could come up with novel solutions to problems and therefore acheive better and more consitent outcomes within the roles.
 
 ## Where did I learn this?
 
 #### Makers Academy November 2021 - Feburary 2022
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- During my time at Makers, I worked on a number of projects. At the beginning, I did many pair projects with other students in Ruby and Rspec, learning how Databases, Web development and just general TDD, OOP and MVC programming worked. We then did a group project, MakersBNB which brought all of these skills together and let me experience Agile working in a team.  
+- After this, we moved on to working in Javascript and testing in Jest, making more web-based programs and using my previous experience to learn a new language quickly, efficently but well. We then moved onto our next larger group project, Acebook (which we renamed Gem Junkies), for which we used Rails and had a much longer project time, allowing us to properly plan and fully execute a large, complex project with many difficult database relations.  
+- Finally, we did a final project in Makers, for which I worked with a team to recreate the game Worms (which we called Wormz) using Javascript, Matter.js, P5, Jest, Mocha and Chai over a two week period. We initialy started working in React Native, however realised this was not the right stack for our game and so instead changed to just pure JS. We also used the Spike and Stabalise methodology rather than TDD for this project, as with the nature of the game and timescale this fit best. We also carried out a lot of manual testing as well, and finished by presenting this project to our peers.  
 
 #### What did I learn at University / College (between 09/2015 to 07/2020)?
 
@@ -85,4 +79,4 @@ I like to code stuff in my spare time.
 
 ## But what do I like to do that's not work OR coding?
 
-I play a number of instruments, including Piano, Guitar and Double Bass, enjoy traveling, exploring new cities and also long walks
+I play a number of instruments, including Piano, Guitar and Double Bass, enjoy traveling, exploring new cities and also long walks. I also love to go out and experience lots of new things, such as new food places, new experiences just in general or anything cool that's around really!
