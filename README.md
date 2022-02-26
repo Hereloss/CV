@@ -17,29 +17,25 @@ Good in any situation, and always working to improve my skills and experience.
 
 ## What have I done (but also been paid for)?
 
-**Michael Bailey Associates** (05/2021 to 11/2021)  
-Delivery Consultant (Recruiter)
+**Michael Bailey Associates** (05/2021 to 11/2021) - Delivery Consultant (Recruiter)
 
 - During this role, I sourced candidates for roles and jobs, listening and making suggestions as I went.
 - I also helped training up two new members of staff on both the software and other the responsibilities of the role.
 - My main duties were to call candidates, update the database and co-ordinate interviews and start dates of the candidates.
 - During my time there, nearly 20 candidates were offered roles successfully found roles and started the contracts due to my work
 
-**Quilter** (02/2020 to 04/2021)  
-Customer Service Administrator
+**Quilter** (02/2020 to 04/2021) - Customer Service Administrator
 
 - During this role, I worked with lots of data and ensured this was inputed quickly and accurately onto the system.
 - I also helped with mentoring other members of staff and helped out other teams when required.
 - Due to this, we got through a system migration of the data on time and target, with a minimal amount of disruption.
 
-**Tutorful** (09/2018 to 11/2019)
-Personal Tutor
+**Tutorful** (09/2018 to 11/2019) - Personal Tutor
 
 - In this freelance role, I took on clients and on my own created and taught the required materials, including making worksheets and ensuring the lessons were taught in a clear and consice way.
 - Due to this, the students consistently improved their grades and had much better results come the end of the year.
 
-**Cricketer's Arms (Greene King)** (07/2016 to 09/2018)
-Bartender/Waiter
+**Cricketer's Arms (Greene King)** (07/2016 to 09/2018) - Bartender/Waiter
 
 - In this role, I worked both behind the bar and serving tables, working alongside colleagues in stressful situations and ensuring the orders were made correctly and the bar run smoothly.
 - This allowed us to run the pub efficiently and have good reviews over the busy summer months.
@@ -66,9 +62,8 @@ My creative skills have helped me with numerous non-coding projects during my st
 
 #### What did I learn at University / College (between 09/2015 to 07/2020)?
 
-- Mathematics (With a Year Abroad), King's College London (Year abroad in UCSB)
-- 2:1
-- During this time, I did a project on Chaos Theory, studied in California for a year and also helped run a number of societies, including Ice Skating (Social Secretary) and the Rock and Metal Society (Treasurer)
+##### Mathematics (With a Year Abroad), King's College London (Year abroad in UCSB) - 2:1
+- During this time, I also did a project on Chaos Theory, studied in California for a year and also helped run a number of societies, including Ice Skating (Social Secretary) and the Rock and Metal Society (Treasurer). I was also a member of multiple other socities during this time, including the Swimming Team and the Cocktail society.
 
 #### What else can I do?
 
